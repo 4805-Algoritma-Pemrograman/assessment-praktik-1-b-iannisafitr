@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Nomor2{
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in)
         double totalPendapatan = 0;
         int jumlahTransaksi = 0;
         String inputLagi;
